@@ -43,7 +43,7 @@ player1Status=None
 player2Status=None
 
 
-winParameters ((position1,position2,position3)(position4,position5,position6),(position7,position8,position9),(position1,position5,position9),(position3,position5,position9),(position4,position5,position6),(position3,position6,position5),(position2,position5,position8),(position1,position4,position7))
+
 
 
 
